@@ -1,0 +1,6 @@
+print("fuqin")
+fuqin = input()
+print("muqin")
+muqin = input()
+erzi = ((fuqin+muqin)*0.54)
+print(erzi)
